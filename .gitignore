@@ -1,0 +1,8 @@
+__pycache__
+Bankroll_screenshots
+build
+DATASTORE/
+dist
+Modules/__pycache__
+Tesseract-OCR
+mouse_coordinates.py
